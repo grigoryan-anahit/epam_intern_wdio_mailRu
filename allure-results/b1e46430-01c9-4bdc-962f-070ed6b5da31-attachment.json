@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@class=\"contactsContainer--3RMuQ\"]//input[@class=\"container--H9L5q size_s--3_M-_\"]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@class=\"editable-figh cke_editable cke_editable_inline cke_contents_true cke_show_borders\"]/div[1]/br"
+}

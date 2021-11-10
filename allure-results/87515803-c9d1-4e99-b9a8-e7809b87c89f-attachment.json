@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@class=\"compose-app__buttons\"]/span[@title=\"Отправить\"]"
+}

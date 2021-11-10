@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[class=\"compose-app__buttons\"]:first-of-type"
+}
